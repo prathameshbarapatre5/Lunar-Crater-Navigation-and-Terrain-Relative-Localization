@@ -58,3 +58,14 @@ The system consists of four main nodes:
 
 ### License
 MIT License
+
+### Authors
+This project was created as part of the **Mobile Robotics Final Project** course work developed by:
+
+*   **Prathmesh Barapatre**
+*   **Kaviarasu Annadurai**
+*   **Arun Saravana Lakshmi Venugopal**
+
+**Department of Electrical and Computer Engineering**  
+**Northeastern University**, Boston, Massachusetts, USA  
+Emails: `{barapatre.p, annadurai.k, venugopal.a}@northeastern.edu`
