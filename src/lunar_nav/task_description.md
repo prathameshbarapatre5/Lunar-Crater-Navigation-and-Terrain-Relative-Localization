@@ -1,4 +1,4 @@
-# ShadowNav Project Proposal
+# Project Proposal
 
 ## Objective
 Implement the particle filter-based localization framework from ShadowNav (Atha et al., IEEE Robotics and Automation Letters, 2024), addressing autonomous global positioning for lunar rovers using crater landmarks.
