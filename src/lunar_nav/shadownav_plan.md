@@ -1,4 +1,4 @@
-# ShadowNav Implementation & Execution Plan
+# Implementation & Execution Plan
 
 ## 1. System Implementation Status
 
